@@ -23,6 +23,9 @@ var parser = new ArcGridParser();
 mdtData = parser.parseData(text); 
 ```
 
+## License
+MIT - You can download and modify this code for free. Do what you want with him ;)
 
+## Author
+[Pablo Martin](https://www.linkedin.com/in/pablomn/)
 
-GNU License - Free use and modification license.
